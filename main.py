@@ -1,10 +1,10 @@
 from moviepy.editor import VideoFileClip
 
 # Путь к исходному видео
-video_path = "C:\\Users\\agent\Downloads\Telegram Desktop\\567.mp4"
+video_path = "path"
 
 # Путь для сохранения конвертированного видео
-output_path = "C:\\Users\\agent\Downloads\Вацап видео\\567.mp4"
+output_path = "path"
 
 # Загружаем видео
 video = VideoFileClip(video_path)
